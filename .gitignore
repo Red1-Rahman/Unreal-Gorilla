@@ -1,0 +1,23 @@
+﻿# Ignore Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider / Xcode files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Logs and caches
+*.log
+*.vs/
+
+# Ignore backups
+*_Backup*/
+*_backup*/
